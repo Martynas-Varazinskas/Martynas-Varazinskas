@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Martynas-Varazinskas)
 
-<a href="https://Martynas-Varazinskas.github.io/">
+<a href="https://Martynas-Varazinskas.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
     </a>
 
