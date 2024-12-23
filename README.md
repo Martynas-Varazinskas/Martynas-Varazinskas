@@ -14,6 +14,7 @@
 * **Methodologies:** [Agile] [Scrum] [TDD/BDD]
 * **Tools:** [Jira] [TestRail] [Postman] [Other Tools]
 * **Cloud Platforms:** [AWS] [Azure] [Google Cloud]
+  
   ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
 ## 🚀 Featured Projects
