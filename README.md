@@ -1,6 +1,6 @@
 # [Your Name] - Quality Assurance Engineer
 
-![](https://komarev.com/ghpvc/?Martynas-Varazinskas=your-github-Martynas-Varazinskas)
+![](https://komarev.com/ghpvc/?username=your-github-Martynas-Varazinskas)
 
 > "Ensuring quality is not just a job, it's a passion."
 
