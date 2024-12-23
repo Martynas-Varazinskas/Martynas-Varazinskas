@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Martynas-Varazinskas)
 
+<a href="https://Martynas-Varazinskas.github.io/">
+        <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
+    </a>
+
 > "Ensuring quality is not just a job, it's a passion."
 
 [![Badge: LinkedIn]](your-linkedin-profile)
